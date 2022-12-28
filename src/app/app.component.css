@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+
+button {
+  margin: 3px;
+}
+
+.container{
+  padding: 5px;
+  border: 1px solid black;
+  min-height: 8rem;
+}

@@ -1,0 +1,19 @@
+#outerBox {
+  border: 2px solid green;
+  margin-bottom: 10px;
+}
+
+#innerBox {
+  border: 2px solid orange;
+}
+
+#outerBox, #innerBox {
+  padding: 5px;
+  text-align: center;
+}
+
+button {
+  margin: 0 20%;
+  min-width: 60%;
+  font-weight: bold;
+}
